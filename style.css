@@ -1,0 +1,67 @@
+h1{
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'PT Sans', sans-serif;
+}
+.name-highlisght{
+    color: orange;
+}
+
+.half-width{
+    width:50%;
+   float:left;
+   margin-left: 5%;
+ 
+}
+
+.half-width2{
+    width:40%;
+    float:left;
+    
+}
+
+ .img{
+   
+    border: 3px solid #F88466;
+    border-radius: 500%;
+    
+    background-color: #F88668;
+    
+     margin-top: 10px;
+    
+} 
+
+.dev-title{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+}
+
+
+.dev-details{
+    
+width: 80%;
+    
+text-align: justify;
+    
+color: #888;
+    
+font-weight: bold;
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'PT Sans', sans-serif;
+}
+body{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.sub_btn{
+    background-color: #FF6F51;
+    height: 40px;
+    width: 150px;
+    border: 3px solid #FF6F51;
+    border-radius: 10px;
+    font-size: 15px;
+    color: white;
+}
+
